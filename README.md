@@ -20,3 +20,5 @@ I am a Graduate Professor at UMA, where I maintain open-source foundations for t
 * 🗄️ **[database-foundations-for-ai](https://github.com/cesarsanco-ai/database-foundations-for-ai)**: Efficient data architectures for AI.
 
 📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/cesar-sanchez-c/) | [Portfolio](https://cesarsanco-ai.github.io/)
+
+*Carlos César Sánchez Coronel*
