@@ -12,6 +12,7 @@ I am a Senior professional transitioning from data analytics to core AI developm
 I believe in open education. I maintain these repositories for my undergraduate courses at UMA:
 * 🤖 **[ml-foundations](https://github.com/cesarsanco-ai/ml-foundations)**: Comprehensive machine learning from scratch.
 * 🗣️ **[nlp-foundations](https://github.com/cesarsanco-ai/nlp-foundations)**: From classical NLP to Transformers and LLMs.
+* 📐 **[math-foundations-for-ai](https://github.com/cesarsanco-ai/math-foundations-for-ai)**: Linear Algebra and Calculus applied to AI.
 * 🗄️ **[database-foundations-for-ai](https://github.com/cesarsanco-ai/database-foundations-for-ai)**: High-performance data structures for AI workloads.
 
 ### 🔬 Featured Projects
