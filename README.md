@@ -1,22 +1,22 @@
 # Hi, I'm César Sánchez 👋
-**AI Engineer & Data Scientist | Bridge between Theory and Industry**
+**AI Engineer & Data Scientist | Bridge between Engineering & Intelligent Systems**
 
-I am a Senior professional transitioning from data analytics to core AI development. Currently pursuing an **MSc in Artificial Intelligence at UNI**, I focus on building scalable AI solutions and teaching the next generation of engineers.
+I am a Senior professional with a solid **Electrical & Electronic Engineering background**, currently specializing in core AI development. By combining my engineering roots with an **MSc in Artificial Intelligence at UNI**, I build scalable solutions that connect the physical world with intelligent algorithms.
 
-### 🚀 Technical Expertise
-* **Core AI:** Deep Learning, NLP, Reinforcement Learning, Multimodal Models.
-* **Engineering:** Python (PyTorch, Scikit-Learn), SQL, Databricks, Azure.
-* **Research:** Currently developing a **Multimodal AI Robot** for my Master's Thesis.
+### 🚀 Technical Expertise & Background
+* **Engineering Foundation:** Strong expertise in Electrical Engineering, Signal Processing, and Hardware-Software integration.
+* **Core AI:** Deep Learning, NLP, Reinforcement Learning, and Multimodal Models.
+* **Cloud & Data:** Expert-level proficiency in Databricks, Azure, and Python-based ML Pipelines.
 
-### 👨‍🏫 Teaching & Open Source
-I believe in open education. I maintain these repositories for my undergraduate courses at UMA:
-* 🤖 **[ml-foundations](https://github.com/cesarsanco-ai/ml-foundations)**: Comprehensive machine learning from scratch.
-* 🗣️ **[nlp-foundations](https://github.com/cesarsanco-ai/nlp-foundations)**: From classical NLP to Transformers and LLMs.
-* 📐 **[math-foundations-for-ai](https://github.com/cesarsanco-ai/math-foundations-for-ai)**: Linear Algebra and Calculus applied to AI.
-* 🗄️ **[database-foundations-for-ai](https://github.com/cesarsanco-ai/database-foundations-for-ai)**: High-performance data structures for AI workloads.
+### 🔬 Featured Research: Robotics & AI
+* **Multimodal AI Robot:** For my Master's Thesis, I am developing a mobile robot that integrates computer vision and Reinforcement Learning. This project leverages my dual expertise in **Electronics** and **AI**.
+* **Chemistry OCR:** Using DeepSeek models for automated SMILES chemical structure recognition.
 
-### 🔬 Featured Projects
-* **Chemistry OCR & DeepSeek:** Automated SMILES chemical structure recognition.
-* **Data Lineage for AI:** Enterprise-level governance for ML pipelines.
+### 👨‍🏫 Academic Leadership
+I am a Graduate Professor at UMA, where I maintain open-source foundations for the next generation of engineers:
+* 🤖 **[ml-foundations](https://github.com/cesarsanco-ai/ml-foundations)**: Applied Machine Learning from scratch.
+* 🗣️ **[nlp-foundations](https://github.com/cesarsanco-ai/nlp-foundations)**: From classical NLP to LLMs.
+* 📐 **[math-foundations-for-ai](https://github.com/cesarsanco-ai/math-foundations-for-ai)**: Linear Algebra & Calculus for AI.
+* 🗄️ **[database-foundations-for-ai](https://github.com/cesarsanco-ai/database-foundations-for-ai)**: Efficient data architectures for AI.
 
 📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/cesar-sanchez-c/) | [Portfolio](https://cesarsanco-ai.github.io/)
