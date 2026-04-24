@@ -3,6 +3,11 @@
 
 I am a Senior professional with a solid **Electrical & Electronic Engineering background**, currently specializing in core AI development. By combining my engineering roots with an **MSc in Artificial Intelligence at UNI**, I build scalable solutions that connect the physical world with intelligent algorithms.
 
+### 🌐 Professional Identity & Research IDs
+* **IEEE Graduate Student Member:** [#102338748](https://www.ieee.org/) (Computer Society / Robotics and Automation Society).
+* **ORCID:** [0009-0002-3153-6254](https://orcid.org/0009-0002-3153-6254)
+* **Research Focus:** Autonomous Multi-Agent Systems & Edge AI.
+
 ### 🚀 Technical Expertise & Background
 * **Engineering Foundation:** Strong expertise in Electrical Engineering, Signal Processing, and Hardware-Software integration.
 * **Core AI:** Deep Learning, NLP, Reinforcement Learning, and Multimodal Models.
