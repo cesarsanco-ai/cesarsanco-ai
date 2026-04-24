@@ -5,7 +5,7 @@ I am a Senior professional with a solid **Electrical & Electronic Engineering ba
 
 ### 🌐 Professional Identity & Research IDs
 * **IEEE Graduate Student Member:** [#102338748](https://www.ieee.org/) (Computer Society / Robotics and Automation Society).
-* **ORCID:** [0009-0002-3153-6254](https://orcid.org/0009-0002-3153-6254)
+* **ORCID:** [0009-0006-8208-9628](https://orcid.org/0009-0006-8208-9628)
 * **Research Focus:** Autonomous Multi-Agent Systems & Edge AI.
 
 ### 🚀 Technical Expertise & Background
