@@ -4,7 +4,8 @@
 I am a Senior professional with a solid **Electrical & Electronic Engineering background**, currently specializing in core AI development. By combining my engineering roots with an **MSc in Artificial Intelligence at UNI**, I build scalable solutions that connect the physical world with intelligent algorithms.
 
 ### 🌐 Professional Identity & Research IDs
-* **IEEE Graduate Student Member:** [#102338748](https://www.ieee.org/) (Computer Society / Robotics and Automation Society).
+* **IEEE Graduate Student Member:** [#102338748](https://ieee-collabratec.ieee.org/app/p/CesarSanchezCoronel) 
+  * _Societies: Computer | Robotics and Automation_
 * **ORCID:** [0009-0006-8208-9628](https://orcid.org/0009-0006-8208-9628)
 * **Research Focus:** Autonomous Multi-Agent Systems & Edge AI.
 
