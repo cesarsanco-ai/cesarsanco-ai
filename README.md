@@ -4,6 +4,7 @@
 I am a Senior professional with a solid **Electrical & Electronic Engineering background**, currently specializing in core AI development. By combining my engineering roots with an **MSc in Artificial Intelligence at UNI**, I build scalable solutions that connect the physical world with intelligent algorithms.
 
 ### 🌐 Professional Identity & Research IDs
+* **Databricks Machine Learning:** [Databricks Directory](https://directory.databrickscertified.com/profile/0a665a88-57c3-4380-b7b2-6aea852e0923)
 * **IEEE Graduate Student Member:** [#102338748](https://ieee-collabratec.ieee.org/app/p/CesarSanchezCoronel) 
   * _Societies: Computer | Robotics and Automation_
 * **ORCID:** [0009-0006-8208-9628](https://orcid.org/0009-0006-8208-9628)
