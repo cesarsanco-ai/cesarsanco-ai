@@ -1,5 +1,5 @@
 # Hi, I'm César Sánchez 👋
-**AI Engineer & Data Scientist | Bridge between Engineering & Intelligent Systems**
+**AI Engineer & Data Engineer | Bridge between Engineering & Intelligent Systems**
 
 I am a Senior professional with a solid **Electrical & Electronic Engineering background**, currently specializing in core AI development. By combining my engineering roots with an **MSc in Artificial Intelligence at UNI**, I build scalable solutions that connect the physical world with intelligent algorithms.
 
