@@ -9,7 +9,6 @@ I am a Senior professional with a solid **Electrical & Electronic Engineering ba
 * **IEEE Graduate Student Member:** [#102338748](https://ieee-collabratec.ieee.org/app/p/CesarSanchezCoronel) 
   * _Societies: Computer | Robotics and Automation_
 * **ORCID:** [0009-0006-8208-9628](https://orcid.org/0009-0006-8208-9628)
-* **Research Focus:** Autonomous Multi-Agent Systems & Edge AI.
 
 ### 🚀 Technical Expertise & Background
 * **Engineering Foundation:** Strong expertise in Electrical Engineering, Signal Processing, and Hardware-Software integration.
